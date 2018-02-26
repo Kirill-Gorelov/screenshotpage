@@ -1,4 +1,6 @@
-# [PhantomJS](http://phantomjs.org) - Scriptable Headless WebKit
+# [PhantomJS](http://phantomjs.org) 
+
+Скриншотер страницы на базе библиотеки phantomjs.org.
 
 PhantomJS ([phantomjs.org](http://phantomjs.org)) is a headless WebKit scriptable with JavaScript.  The latest [stable release](http://phantomjs.org/release-2.0.html) is version 2.0.
 
